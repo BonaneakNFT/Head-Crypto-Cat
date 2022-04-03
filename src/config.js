@@ -6,7 +6,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "HeadCryptoCat";
-const description = "Welcome to the home of HeadCryptoCat. This is the collection created using the Polygom smart contract and it has only 7777 unique digital NFTs. Discover the best items in this collection.";
+const description = "Welcome to the home of Head Crypto Cat. This is the collection created using the Polygon smart contract and it has only 7777 unique digital NFTs. Discover the best items in this collection.";
 const baseUri = "ipfs://QmZeEq3asLssST2f6meiACvi9PLMXoJhgGAikHFHqvbqza";
 
 const solanaMetadata = {
